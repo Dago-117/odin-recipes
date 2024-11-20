@@ -1,0 +1,14 @@
+.header {
+    color: #FFE6A9;
+    background-color: #DEAA79;
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 8px 24px;
+}
+
+ul {
+    font-family: "Montserrat Alternates", serif;
+    font-weight: bold;
+    font-style: normal;
+}
